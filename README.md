@@ -11,7 +11,5 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gjils&theme=dracula&hide_border=true)](https://git.io/streak-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gjils&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 </br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gjils&theme=dracula&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=gjils&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gjils&theme=dracula&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=gjils&theme=dracula)](https://github.com/KnlnKS/leetcode-stats)

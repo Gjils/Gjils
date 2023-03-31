@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </br>
 
 ## My stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gjils&theme=dracula&hide_border=true)](https://git.io/streak-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gjils&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gjils&theme=dracula&hide_border=true)](https://git.io/streak-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gjils&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 
 ## Leetcode

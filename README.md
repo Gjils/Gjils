@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my <a href="https://github.com/Gjils/Barett">study project</a>
 - 🌱 I’m currently learning JS, math analysis, improving my design skills
-- 📫 How to reach me: ![Flutter](https://img.shields.io/badge/Telergam-@Gjils-1E90FF?style=flat&logo=telegram)![Flutter](https://img.shields.io/badge/Spotify-gicha_enjoyer-3CB371?style=flat&logo=spotify)
+- 📫 How to reach me: [![Flutter](https://img.shields.io/badge/Telergam-@Gjils-1E90FF?style=flat&logo=telegram)](https://t.me/gjils)[![Flutter](https://img.shields.io/badge/Spotify-gicha_enjoyer-3CB371?style=flat&logo=spotify)](https://open.spotify.com/user/w62wi5pkbmtrgakqaxuy4wj80?si=fed0f11ec49d4b8c)
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gjils&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

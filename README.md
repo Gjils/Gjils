@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 </br>
+
 ## My stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gjils&theme=dracula&hide_border=true)](https://git.io/streak-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gjils&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)](https://github-profile-trophy.vercel.app/?username=Gjils&theme=dracula&row=2&column=3&no_frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 </br>
+
 ## Leetcode
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=gjils&theme=dark)](https://github.com/KnlnKS/leetcode-stats)

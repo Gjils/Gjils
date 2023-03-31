@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gjils&theme=dracula&hide_border=true)](https://git.io/streak-stats)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gjils&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 </br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gjils&theme=dracule&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gjils&theme=dracula&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)

@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ![Flutter](https://img.shields.io/badge/Telergam-@Gjils-1E90FF?style=flat&logo=telegram)![Flutter](https://img.shields.io/badge/Spotify-gicha_enjoyer-3CB371?style=flat&logo=spotify)
 
 <h2>Languages</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gjils&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gjils&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)

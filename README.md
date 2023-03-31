@@ -1,18 +1,11 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
-
-<!--
-**Gjils/Gjils** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Alexey 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/></h1>
+<h3 align="center">Beginer web programmer</h3>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my study project
+- 🌱 I’m currently learning JS, improving my design skills
+- 📫 How to reach me: ![Flutter](https://img.shields.io/badge/Telergam-@Gjils-1E90FF?style=flat&logo=telegram)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gjils)](https://git.io/streak-stats)

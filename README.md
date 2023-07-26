@@ -10,6 +10,8 @@
 <h2 align="center">My projects</h2>
 </hr>
 <h3 align="center"><a href="http://barett.wd.bytic.ru/" target="_blank">Barett</a> (<a href="https://github.com/Gjils/Barett" target="_blank">github page</a>)</h3>
+</br>
+Barett is my first big project that i made at spring 2023 as the graduate work on the web-design course. During the work, i developed design for a fictional online guitar shop and build it. This project helped me improve my design skills and learn basics of native js and constructions such as sliders and pop-up windows in practice. Also i learned the basics of requests, most of content on site are generated dynamically from json shells. 
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gjils&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

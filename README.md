@@ -9,7 +9,7 @@
 </br>
 <h2 align="center">My projects</h2>
 </hr>
-<h3 align="center"><a href="http://barett.wd.bytic.ru/">Barett</a> (<a href="https://github.com/Gjils/Barett">github page</a>)</h3>
+<h3 align="center"><a href="http://barett.wd.bytic.ru/" target="_blank">Barett</a> (<a href="https://github.com/Gjils/Barett" target="_blank">github page</a>)</h3>
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gjils&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

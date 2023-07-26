@@ -5,9 +5,11 @@
 - 🔭 I’m currently working on <a href="">study project</a> from js basics course
 - 🌱 I’m currently learning JS, math analysis, improving my design skills
 - 📫 How to reach me: [![Flutter](https://img.shields.io/badge/Telergam-@Gjils-1E90FF?style=flat&logo=telegram)](https://t.me/gjils)[![Flutter](https://img.shields.io/badge/Spotify-gicha_enjoyer-3CB371?style=flat&logo=spotify)](https://open.spotify.com/user/w62wi5pkbmtrgakqaxuy4wj80?si=fed0f11ec49d4b8c)
-
+</br>
+</br>
 <h2 align="center">My projects</h2>
 </hr>
+<h3 align="center"><a href="http://barett.wd.bytic.ru/">Barett</a> (<a href="https://github.com/Gjils/Barett">github page</a>)</h3>
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gjils&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

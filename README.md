@@ -13,6 +13,7 @@
 * CSS Frameworks: Bootstrap 5, Materialize 
 * Preprocessors: SASS, SCSS
 * JS: basics, DOM, OOP, AJAX
+* Webpack
 * Git, Github
 * Python basics
 * C and C++ basics

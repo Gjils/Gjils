@@ -12,7 +12,7 @@
 * Web: HTML, CSS, adaptive layout, semantic tags
 * CSS Frameworks: Bootstrap 5, Materialize 
 * Preprocessors: SASS, SCSS
-* JS: basics, DOM, OOP, AJAX
+* JS: basics, DOM, OOP, requests, async
 * Webpack
 * Git, Github
 * Python basics

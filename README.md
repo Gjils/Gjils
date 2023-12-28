@@ -46,6 +46,8 @@
   
   [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
+***
+
 * ### [To-do-list](https://gjils.github.io/to-do-list/) ([github page](https://github.com/Gjils/to-do-list))
   
   It's just to-do-list :confused:

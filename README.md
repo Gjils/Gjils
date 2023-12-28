@@ -30,19 +30,32 @@
   Barett is my first big project that I made at spring 2023 as the graduate work on the web-design course. During the work, I developed design for a fictional online guitar shop and build it. This project helped me improve my design skills and learn basics of native js and constructions such as sliders and pop-up windows in practice. Also I learned the basics of requests, most of content on site are generated dynamically from json shells.
   
   ![main page](https://github.com/Gjils/Barett/blob/main/preview/main-desktop.png)
-> Main page on desktop
+  > Main page on desktop
+
+  [![My Skills](https://skillicons.dev/icons?i=figma,html,css,js)](https://skillicons.dev)
+  
 ***
+
 * ### [Accents](https://gjils.github.io/accentsgame/) ([github page](https://github.com/Gjils/accentsgame))
+  
   Accents game is my school project. I've made it to help students like me learn the accents in words to correctly complete one of the taasks in final exam. Doing this project, I've learn how to use closures and fetch API in real cases. Also I tried to make code in this app comply with OOP
   
   ![main page](https://github.com/Gjils/accentsgame/blob/main/preview/desktop.png)
-> Desktop view
-***
-* ### [FoodSite](https://gjils.github.io/FoodSite/) ([github page](https://github.com/Gjils/FoodSite))
-  Foodsite is project from [js course](https://www.udemy.com/course/javascript_full/) on udemy. HTML and CSS structure was given by lecturer but js code was written during the lessons. Implemented functions: tabs menu, sale countdown, modal window, carousel slider, calculator and dynamically generating cards. The project has module structure.
   
-  ![tabs](https://github.com/Gjils/foodsite/blob/main/preview/tabs.png)
-> Tabs
+  > Desktop view
+  
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+* ### [To-do-list](https://gjils.github.io/to-do-list/)
+  
+  It's just to-do-list :confused:
+  
+  ![desktop](https://github.com/Gjils/to-do-list/blob/main/preview/desktop.jpg)
+  
+  > Desktop view
+
+  [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+
 
 </hr>
 </br>

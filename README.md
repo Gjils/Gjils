@@ -11,7 +11,7 @@
 * Languages: Russian, English B1
 * Web: HTML, CSS, adaptive layout, semantic tags
 * CSS Frameworks: Bootstrap 5, Materialize 
-* Preprocessors: SASS, SCSS
+* Preprocessors: SCSS
 * JS: basics, DOM, OOP, requests, async
 * Webpack
 * Git, Github

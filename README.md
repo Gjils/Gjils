@@ -22,7 +22,7 @@
 * Algorythms
 * Math Stats and Math Analysis basics, Excel, R
 * Linux systems
-* Design: Photoshop, Illustrtor, Figma, Pixso, XD
+* Design: Photoshop, Illustrator, Figma, Pixso, XD
 </br>
 <h2 align="center">My projects</h2>
 </hr>

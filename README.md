@@ -14,6 +14,7 @@
 * Preprocessors: SCSS
 * JS: basics, DOM, OOP, requests, async
 * React basics
+* React native basics
 * Webpack, Vite
 * Git, Github
 * Python basics

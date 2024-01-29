@@ -87,7 +87,7 @@
 
 ***
 
-* ### Spelling native
+* ### Spelling native ([github page](https://github.com/Gjils/spelling-game-native))
   
   <a href="https://github.com/Gjils/spelling-game-native/blob/main/preview/spelling-game.apk" download="spelling-game">Download app (android)</a>
   <br/>

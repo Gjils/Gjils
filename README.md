@@ -97,7 +97,9 @@
   [![Stack](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
   
   <img src="https://github.com/Gjils/spelling-game-native/blob/main/preview/mobile-purple.jpg" alt="Mobile purple" width="322"/>
+  
   <br/>
+  
   > Mobile purple
 
 

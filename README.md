@@ -17,9 +17,11 @@
   * Bootstrap 5, Materialize, Tailwind
   * adaptive and responsive design
   * JS
+  * JQuery (if needed)
   * axios, fetch API
   * React (class components, hooks)
   * Webpack, Vite, Babel
+  * npm, yarn
 * #### Mobile:
   * React native
 * #### Design:

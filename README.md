@@ -99,6 +99,7 @@
   <img src="https://github.com/Gjils/spelling-game-native/blob/main/preview/mobile-purple.jpg" alt="Mobile purple" width="322"/>
   
   <br/>
+  <br/>
   
   > Mobile purple
 

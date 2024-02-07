@@ -132,7 +132,7 @@
   
   * Yau can add templates
    
-  * You can switch between
+  * You can switch between dark and light theme
     
   <img src="https://github.com/Gjils/task-scheduler/blob/main/preview/mobile-dark.jpg" alt="Mobile dark" width="322"/>
   

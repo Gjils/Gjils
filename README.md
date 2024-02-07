@@ -23,8 +23,8 @@
   * Webpack, Vite, Babel
   * npm, yarn
 * #### Mobile:
-  * React native
-  * Flutter
+  * React native basics
+  * Flutter basics
 * #### Design:
   * Figma, Pixso, XD
   * Illustrator
@@ -32,8 +32,8 @@
 * #### Other:
   * Git, Github
   * Algorythms
-  * Python
-  * C and C++
+  * Python basics
+  * C and C++ basics
   * Neural Networks basics
   * Math Stats and Math Analysis basics, Excel, R
   * Linux systems (btw i use arch)

@@ -117,7 +117,7 @@
   
 ***
 
-* ### Task Scheduler
+* ### Task Scheduler ([github page](https://github.com/Gjils/task-scheduler))
 
   [Download app (android)](https://github.com/Gjils/task-scheduler/blob/main/preview/task-scheduler.apk)
     

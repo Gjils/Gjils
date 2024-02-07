@@ -24,6 +24,7 @@
   * npm, yarn
 * #### Mobile:
   * React native
+  * Flutter
 * #### Design:
   * Figma, Pixso, XD
   * Illustrator

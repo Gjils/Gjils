@@ -10,33 +10,15 @@
 
 * #### Languages: Russian native, English B1
 * #### Web:
-  * HTML
-  * semantic tags
-  * CSS
-  * SCSS
-  * Bootstrap 5, Materialize, Tailwind
-  * adaptive and responsive design
-  * JS
-  * JQuery (if needed)
-  * axios, fetch API
-  * React (class components, hooks)
-  * Webpack, Vite, Babel
-  * npm, yarn
+   [![Web](https://skillicons.dev/icons?i=html,css,ts,react,vite,yarn&perline=4)](https://skillicons.dev)
 * #### Mobile:
-  * React native basics
-  * Flutter basics
+  [![Mobile](https://skillicons.dev/icons?i=react,dart,flutter&perline=4)](https://skillicons.dev)
 * #### Design:
-  * Figma, Pixso, XD
-  * Illustrator
-  * Photoshop
+  [![Design](https://skillicons.dev/icons?i=figma,ai&perline=4)](https://skillicons.dev)
+* #### Backend:
+  [![Backend](https://skillicons.dev/icons?i=go&perline=4)](https://skillicons.dev)
 * #### Other:
-  * Git, Github
-  * Algorythms
-  * Python basics
-  * C and C++ basics
-  * Neural Networks basics
-  * Math Stats and Math Analysis basics, Excel, R
-  * Linux systems (btw i use arch)
+  [![Other](https://skillicons.dev/icons?i=linux,arch,git,docker,nginx,vscode,obsidian&perline=4)](https://skillicons.dev)
 </br>
 <h2 align="center">My projects</h2>
 </hr>
@@ -59,18 +41,6 @@
   [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
   
   ![main page](https://github.com/Gjils/accentsgame/blob/main/preview/desktop.png)
-  
-  > Desktop view
-
-***
-
-* ### [To-do-list](https://gjils.github.io/to-do-list/) ([github page](https://github.com/Gjils/to-do-list))
-  
-  It's just to-do-list :confused:
-  
-  [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-  
-  ![desktop](https://github.com/Gjils/to-do-list/blob/main/preview/desktop.jpg)
   
   > Desktop view
 
@@ -100,21 +70,15 @@
 
 ***
 
-* ### Spelling native ([github page](https://github.com/Gjils/spelling-game-native))
+* ### [Leetcode daily bot](https://t.me/leetcode_daily_notifier_bot) ([github page](https://github.com/Gjils/leetcode-daily-bot))
   
-  <a href="https://github.com/Gjils/spelling-game-native/blob/main/preview/spelling-game.apk" download="spelling-game">Download app (android)</a>
-  <br/>
+  Bot that send leetcode daily problem in telegram groups
   
-  Spelling native is a mobile version of [previous](https://github.com/Gjils/spelling-game) project written on react native.
-  
-  [![Stack](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-  
-  <img src="https://github.com/Gjils/spelling-game-native/blob/main/preview/mobile-purple.jpg" alt="Mobile purple" width="322"/>
-  
-  <br/>
-  <br/>
-  
-  > Mobile purple
+  [![My Skills](https://skillicons.dev/icons?i=go,bots)](https://skillicons.dev)
+
+***
+
+
 
 
 

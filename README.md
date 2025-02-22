@@ -2,8 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/></h1>
 <h3 align="center">Beginer web programmer</h3>
 
-- 🔭 I’m currently preparing for the graduation exams at school
-- 🌱 I’m currently learning React
+- 🔭 I’m student of Central University
+- 🌱 I’m currently learning Go & Java
 - 📫 How to reach me: [![Flutter](https://img.shields.io/badge/Telergam-@gjilss-1E90FF?style=flat&logo=telegram)](https://t.me/gjilss)[![Flutter](https://img.shields.io/badge/Spotify-gicha_enjoyer-3CB371?style=flat&logo=spotify)](https://open.spotify.com/user/w62wi5pkbmtrgakqaxuy4wj80?si=fed0f11ec49d4b8c)
 </br>
 <h2 align="center">My stack</h2>

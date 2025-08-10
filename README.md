@@ -18,7 +18,7 @@
 * #### Backend:
   [![Backend](https://skillicons.dev/icons?i=go&perline=4)](https://skillicons.dev)
 * #### Other:
-  [![Other](https://skillicons.dev/icons?i=linux,arch,git,docker,nginx,vscode,obsidian&perline=4)](https://skillicons.dev)
+  [![Other](https://skillicons.dev/icons?i=linux,git,docker,nginx,vscode,obsidian&perline=4)](https://skillicons.dev)
 </br>
 <h2 align="center">My projects</h2>
 </hr>
@@ -74,7 +74,18 @@
   
   Bot that send leetcode daily problem in telegram groups
   
-  [![My Skills](https://skillicons.dev/icons?i=go,bots)](https://skillicons.dev)
+  [![Stack](https://skillicons.dev/icons?i=go,bots)](https://skillicons.dev)
+
+***
+
+* ### Ai Quest Generator ([github page](https://github.com/Gjils/gamedev-ai-2025))
+  Project made for Gamedev AI hackaton. It generates quest structure and represents it as interactive graph
+  
+  [![Stack](https://skillicons.dev/icons?i=fastapi,solidjs)](https://skillicons.dev)
+
+  ![Graph representation](https://github.com/Gjils/gamedev-ai-2025/blob/main/preview/graph.jpeg)
+
+  > Graph representation
 
 ***
 

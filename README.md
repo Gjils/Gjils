@@ -79,7 +79,7 @@
 ***
 
 * ### Ai Quest Generator ([github page](https://github.com/Gjils/gamedev-ai-2025))
-  Project made for Gamedev AI hackaton. It generates quest structure and represents it as interactive graph
+  Project made for Gamedev AI hackaton. It generates quest structure and represents it as interactive graph. Our team took 2nd place with this project.
   
   [![Stack](https://skillicons.dev/icons?i=fastapi,solidjs)](https://skillicons.dev)
 
